@@ -48,7 +48,7 @@ const labelsThird = [
   "Neo4j",
 ];
 
-function Expertise() {
+function Expertise2() {
   return (
     <div className="container" id="expertise">
       <div className="skills-container">
@@ -116,4 +116,4 @@ function Expertise() {
   );
 }
 
-export default Expertise;
+export default Expertise2;
